@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**singh25528-jx/singh25528-jx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me
+mi piace giocare a calcio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Le mie passioni
+
+- calcio
+- disegnio
+- gochi
+
+## 💻 Tecnologia ed esperienze
+
+Ho già avuto occasione di utilizzare o conoscere:
+
+
+
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+
+disegnio
+
+## 🔍 Cosa mi piacerebbe imparare
+
+creare giochi
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+creare giochi
+
+## 🎯 Guardando al futuro
+
+
